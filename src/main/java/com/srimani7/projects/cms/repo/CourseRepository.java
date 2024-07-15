@@ -1,10 +1,9 @@
-package com.mca.mcms.collegemanage.repo;
+package com.srimani7.projects.cms.repo;
 
-import com.mca.mcms.collegemanage.entity.Course;
-import com.mca.mcms.collegemanage.projection.AdmissionCourse;
+import com.srimani7.projects.cms.entity.Course;
+import com.srimani7.projects.cms.projection.AdmissionCourse;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
-import org.springframework.http.ResponseEntity;
 
 import java.util.List;
 import java.util.Optional;

@@ -1,4 +1,4 @@
-package com.mca.mcms.collegemanage.projection;
+package com.srimani7.projects.cms.projection;
 
 public interface AdmissionCourse {
     Long getId();

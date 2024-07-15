@@ -1,4 +1,4 @@
-package com.mca.mcms.collegemanage.dto;
+package com.srimani7.projects.cms.dto;
 
 import lombok.Getter;
 import lombok.Setter;

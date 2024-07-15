@@ -1,4 +1,4 @@
-package com.mca.mcms.collegemanage.entity;
+package com.srimani7.projects.cms.entity;
 
 import com.fasterxml.jackson.annotation.JsonBackReference;
 import jakarta.persistence.*;

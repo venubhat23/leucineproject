@@ -1,6 +1,6 @@
-package com.mca.mcms.collegemanage.repo;
+package com.srimani7.projects.cms.repo;
 
-import com.mca.mcms.collegemanage.entity.Student;
+import com.srimani7.projects.cms.entity.Student;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface StudentRepository extends JpaRepository<Student, Long> {

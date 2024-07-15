@@ -1,4 +1,4 @@
-package com.mca.mcms.collegemanage;
+package com.srimani7.projects.cms;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

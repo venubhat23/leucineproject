@@ -1,8 +1,8 @@
-package com.mca.mcms.collegemanage.controller;
+package com.srimani7.projects.cms.controller;
 
-import com.mca.mcms.collegemanage.dto.FacultyDto;
-import com.mca.mcms.collegemanage.entity.Faculty;
-import com.mca.mcms.collegemanage.repo.FacultyRepository;
+import com.srimani7.projects.cms.dto.FacultyDto;
+import com.srimani7.projects.cms.entity.Faculty;
+import com.srimani7.projects.cms.repo.FacultyRepository;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;

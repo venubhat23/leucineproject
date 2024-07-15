@@ -1,6 +1,6 @@
-package com.mca.mcms.collegemanage.entity;
+package com.srimani7.projects.cms.entity;
 
-import com.mca.mcms.collegemanage.dto.FacultyDto;
+import com.srimani7.projects.cms.dto.FacultyDto;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

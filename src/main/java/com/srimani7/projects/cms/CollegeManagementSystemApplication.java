@@ -1,4 +1,4 @@
-package com.mca.mcms.collegemanage;
+package com.srimani7.projects.cms;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

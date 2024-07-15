@@ -1,10 +1,8 @@
-package com.mca.mcms.collegemanage.entity;
+package com.srimani7.projects.cms.entity;
 
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
-
-import java.util.List;
 
 @Entity
 @Getter
