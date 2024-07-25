@@ -1,4 +1,4 @@
-# College Management project
+# leucineproject
 
 Objective:
 Develop a College Directory Application to facilitate seamless interaction between students, faculty members, and administrators within a single college. The application will allow users to manage and access personal and academic information efficiently.
@@ -62,4 +62,3 @@ Include charts and graphs for visual representation of data.
 Functionality:
 Fetch and aggregate data for graphical display.
 Provide interactive elements for data visualization.
-# leucineproject
