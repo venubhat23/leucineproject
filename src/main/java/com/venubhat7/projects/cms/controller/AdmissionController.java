@@ -1,10 +1,10 @@
-package com.srimani7.projects.cms.controller;
+package com.venubhat7.projects.cms.controller;
 
-import com.srimani7.projects.cms.dto.StudentDto;
-import com.srimani7.projects.cms.entity.Student;
-import com.srimani7.projects.cms.projection.AdmissionCourse;
-import com.srimani7.projects.cms.repo.CourseRepository;
-import com.srimani7.projects.cms.repo.StudentRepository;
+import com.venubhat7.projects.cms.dto.StudentDto;
+import com.venubhat7.projects.cms.entity.Student;
+import com.venubhat7.projects.cms.projection.AdmissionCourse;
+import com.venubhat7.projects.cms.repo.CourseRepository;
+import com.venubhat7.projects.cms.repo.StudentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
